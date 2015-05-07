@@ -1,5 +1,6 @@
 # phpnuget
 Docker image for phpnuget from kendar.org.
+Host your own nuget feed with this docker image.
 
 Start: docker run -p 80:80 --name phpnuget bwaller/phpnuget
 
